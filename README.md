@@ -6,7 +6,7 @@
 ### <div align="center">Ciao, sono Golden, qui vedrai il mio profilo😜</div>  
   
 
-- 🔭 Cosa sto finendo adesso? [Thesis for ICE](https://github.com/GoldenRose01/Thesis)  
+- 🔭 Last project? [Thesis for ICE](https://github.com/GoldenRose01/Thesis)  
   
 
 - 🌱Sto ancora imparando molti linguaggi😅  
